@@ -1,3 +1,3 @@
 #!/bin/hash
-name=akila
+name=akilabanu deveops workshop"
 echo "$name"
